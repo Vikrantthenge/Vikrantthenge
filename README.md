@@ -63,8 +63,8 @@ I combine this operational background with **Excel, Power BI, Python, forecastin
 
 Demand Forecasting • Safety Stock • Two-Echelon Inventory Planning • Scenario Analysis • 3-Year LRP
 
-[![Live App](https://img.shields.io/badge/STREAMLIT-LAUNCH_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://inventopt-control-tower.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/inventopt-control-tower)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://inventopt-control-tower.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/inventopt-control-tower)
 
 ---
 
@@ -73,8 +73,8 @@ Demand Forecasting • Safety Stock • Two-Echelon Inventory Planning • Scena
 
 KPI Governance • SLA Monitoring • Capacity Analysis • Exception Management
 
-[![Live App](https://img.shields.io/badge/STREAMLIT-LAUNCH_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://operations-control.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/operations-control-tower)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://operations-control.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/operations-control-tower)
 
 ---
 
@@ -85,8 +85,9 @@ Daily Demand • Backlog Targets • Overtime Planning • Staffing Cost Compari
 
 The recommended plan cleared **1,230 simulated requests** by Friday at **₹9,450 less** than the 24-hour overtime option.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/capacity-backlog-planner)
-[![Power BI](https://img.shields.io/badge/POWER_BI-VIEW_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://capacity-backlog-planner.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/capacity-backlog-planner)
+[![Power BI Report](https://img.shields.io/badge/Power%20BI%20Report-FBBF24?style=for-the-badge&logo=powerbi&logoColor=0B1220)](https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf)
 
 ---
 
@@ -95,8 +96,8 @@ The recommended plan cleared **1,230 simulated requests** by Friday at **₹9,45
 
 Staffing Demand • Capacity Planning • Scheduling • Scenario Modelling
 
-[![Live App](https://img.shields.io/badge/STREAMLIT-LAUNCH_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crew-optimizer.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/crew-optimizer)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://crew-optimizer.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/crew-optimizer)
 
 ---
 
@@ -105,8 +106,8 @@ Staffing Demand • Capacity Planning • Scheduling • Scenario Modelling
 
 Turnaround Variance • Ground Handler Performance • Operational KPIs
 
-[![Live App](https://img.shields.io/badge/STREAMLIT-LAUNCH_LIVE_APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ground-turnaround-performance-analysis.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ground-turnaround-performance-analysis)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://ground-turnaround-performance-analysis.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ground-turnaround-performance-analysis)
 
 <br>
 
