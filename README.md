@@ -78,6 +78,18 @@ KPI Governance • SLA Monitoring • Capacity Analysis • Exception Management
 
 ---
 
+### 📅 Capacity & Backlog Planner
+**Staffing Scenarios & Labour Cost Analysis**
+
+Daily Demand • Backlog Targets • Overtime Planning • Staffing Cost Comparison
+
+The recommended plan cleared **1,230 simulated requests** by Friday at **₹9,450 less** than the 24-hour overtime option.
+
+[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/capacity-backlog-planner)
+[![Power BI](https://img.shields.io/badge/POWER_BI-VIEW_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf)
+
+---
+
 ### 👥 CrewOps Workforce Optimization
 **Workforce Planning & Resource Allocation**
 
